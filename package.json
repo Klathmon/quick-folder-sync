@@ -29,7 +29,9 @@
     "express": "^4.14.0",
     "mkdirp": "^0.5.1",
     "pem": "^1.9.4",
-    "rimraf": "^2.5.4"
+    "request": "^2.79.0",
+    "rimraf": "^2.5.4",
+    "watchr": "^3.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
